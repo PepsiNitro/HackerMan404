@@ -52,7 +52,7 @@ document.documentElement.innerHTML = `<html><head><link rel="icon" href="data:im
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
 * {
-	font-family: "Roboto";
+	font-family: "Robot";
 }
 
 :root {
