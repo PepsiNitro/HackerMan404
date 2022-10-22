@@ -34,6 +34,3 @@ npm start
 - Fix Screenshot
 - Favicon In Tabs
 - Bookmarks?
-
-## Discord
-You can find our discord server [here](https://discord.gg/yk33HZSZkU)
